@@ -1,1 +1,1 @@
-SELECT * FROM northwind.products LIMIT 1;
+SELECT id FROM northwind.products ORDER BY product_code;
